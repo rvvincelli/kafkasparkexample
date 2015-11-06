@@ -1,1 +1,1 @@
-Code for post (Kafka Spark Intro)[http://rvvincelli.github.io/].
+Code for post [Kafka Spark Intro](http://rvvincelli.github.io/).
